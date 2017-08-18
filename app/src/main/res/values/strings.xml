@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">UMS-PMC</string>
+
+    <!--zixing-->
+    <string name="scan_code">Scan code</string>
+    <string name="unable_to_open_camera">Unable to open camera, please check it and try again later.</string>
+    <string name="error">Error</string>
+    <string name="viewfinderview_status_text1">Place the 2D code / barcode in the frame</string>
+    <string name="viewfinderview_status_text2">You can automatically scan </string>
+    <string name="msg_camera_framework_bug">Sorry, the Android camera encountered a problem. You may need to restart the device.</string>
+    <string name="button_ok">OK</string>
+
+    <string-array name="service_evaluation">
+        <item>差评</item>
+        <item>一般</item>
+        <item>满意</item>
+        <item>中评</item>
+        <item>好评</item>
+    </string-array>
+
+
+</resources>
